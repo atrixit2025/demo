@@ -9,8 +9,8 @@ function App() {
   // hello
   return (
     <>
-    {/* <div className="div">hello world</div> */}
-      <Header></Header>
+    <div className="div">Hello Friends </div>
+      {/* <Header></Header>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
@@ -30,7 +30,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         this is changes by user 1
-      </p>
+      </p> */}
     </>
   )
 }
